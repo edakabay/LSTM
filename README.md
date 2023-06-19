@@ -1,1 +1,2 @@
 #LSTM
+It is a project that I have done with my friends Ayşe Levent, Deniz Hisarkaya and Barış Demir within the scope of GMT 403-404 Graduation Projects course in Hacettepe University Geomatics Engineering department in the 2022-2023 term. In this project, landslide deformations of Alkumru Dam Reservoir in Siirt were investigated using InSAR time series analysis. Then, future landslide deformations were predicted using time series analysis results and LSTM model.
